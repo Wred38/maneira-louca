@@ -17,6 +17,11 @@ body{
 
 .mainTitle h1, .mainTitle h2{
     margin: 0;
+    text-align: center;
+}
+
+.cd-wrapper{
+    position: relative;
 }
 
 .countdown{
@@ -30,3 +35,4 @@ body{
     color: #f59b1d;
     font-size: 8vw;
 }
+
