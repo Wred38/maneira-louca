@@ -1,5 +1,5 @@
 function countdown(){
-    theDay = new Date("2023/8/17").getTime()
+    theDay = new Date("2023/8/20").getTime()
     let x = setInterval(function () {
         let now = new Date();
         let distance = theDay - now.getTime();
